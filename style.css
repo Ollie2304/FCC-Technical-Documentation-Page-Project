@@ -1,0 +1,74 @@
+#navbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  border-right: solid;
+  width: 300px;
+  min-width: 300px;
+}
+
+#navbar ul {
+  font-family: monospace;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+#navbar li {
+  list-style: none;
+  width: 100%;
+  line-height: 4rem;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+#navbar a:hover {
+  color: grey;
+}
+
+header {
+  text-align: center;
+  font-size: 2.6rem;
+  font-family: monospace;
+  margin: 10px;
+  font-weight: bold;
+}
+
+#main-doc header {
+  text-align: left;
+  margin: 20px;
+}
+
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+}
+
+section article {
+  margin: 20px;
+  font-size: 1.2rem;
+}
+
+code {
+  display: block;
+  text-align: left;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+&lt;p&gt;
