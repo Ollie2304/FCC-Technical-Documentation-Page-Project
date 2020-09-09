@@ -2,7 +2,6 @@
 
 Project for [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design course.
 
-
 ## Other FCC Projects:
 
 [Tribute Page](https://github.com/Ollie2304/FCC-Tribute-Page-Project)
